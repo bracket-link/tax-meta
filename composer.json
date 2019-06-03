@@ -1,0 +1,17 @@
+{
+  "name": "moksha/tax_meta",
+  "description": "For adding metabox on taxonomy",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Sachit Tandukar",
+      "email": "sachit@mokshastudio.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Moksha\\": "src"
+    }
+  }
+}
